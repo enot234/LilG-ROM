@@ -1,1 +1,1 @@
-20130131,not ready, new build,HASS,update-CyanMobile-eXperience-GalaxyMini-20130131-Release.zip,001
+20130131,http://www.mediafire.com/?qzvykefl24l5frl, new build,HASH CODE I LOST IT SORRY,update-CyanMobile-eXperience-GalaxyMini-20130131-Release.zip,001
